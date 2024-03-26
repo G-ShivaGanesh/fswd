@@ -1,5 +1,5 @@
-src/App.js
-------------
+// src/App.js
+----------------
 
 import React from 'react';
 import './App.css';
@@ -42,8 +42,8 @@ export default App;
 
 ===========================================================================================
 
-src/App.css
-------------
+// src/App.css
+--------------------
 
 .App {
   text-align: center;
